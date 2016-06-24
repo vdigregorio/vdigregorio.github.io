@@ -1,0 +1,38 @@
+body{
+	background-color: #C1E5A5;
+	font-family: helvetica;
+}
+h1{
+font-size: 25px;
+font-style: bold;
+text-align: center;
+}
+h2{
+font-size: 20px;
+font-style: bold;
+
+}
+h3{
+font-size: 20px;
+font-style: bold;
+
+}
+h4{
+	font-size: 20px;
+	font-style: bold;
+	text-align: center;
+}
+h5{
+	font-size: 20px;
+	font-style: bold;
+	text-align: center;
+}
+h6{
+	font-size: 30px;
+	font-style: bold;
+	color: red;
+}
+img{
+	margin: auto;
+	display: block;
+}
