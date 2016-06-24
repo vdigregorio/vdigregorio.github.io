@@ -1,0 +1,27 @@
+body{
+	background-color: ;
+	font-family: Arial;
+	font-weight: 100;
+	padding: 20px;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+}
+p{ 
+font-style: italic;
+}
+li {
+	font-style: italic;
+}
+a {
+	color: #cccccc;
+}
+img {
+	border: solid;
+	border-width: 10px;
+	border-color: #cccccc;
+	display: block;
+	margin: auto;
+
+}
